@@ -57,7 +57,7 @@
         <a href="https://github.com/mouse0429"><img src="https://avatars.githubusercontent.com/u/68915238?v=4" width="150px" alt="김민지"/><br /></a>
      </td>
     <td align="center">
-        <a href="https://github.com/clscls2530"><img src="https://avatars.githubusercontent.com/u/65168017?v=4" width="150px" alt="김혜연"/><br /></a>
+        <a href="https://github.com/Hyeyeon-Kim"><img src="https://avatars.githubusercontent.com/u/65168017?v=4" width="150px" alt="김혜연"/><br /></a>
     </td>
     <td align="center">
         <a href="https://github.com/suan073"><img src="https://avatars.githubusercontent.com/u/86531782?v=4" width="150px" alt="이수인"/><br /></a>
